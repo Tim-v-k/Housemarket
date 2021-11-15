@@ -1,0 +1,26 @@
+﻿#,street,place,zipcode,region,housenumber,rooms,bedrooms,building_date,placement,surface,type,date,sold,price
+1,Lindedreef,Heeswijk-Dinther,5473SB,NoordBra,183,1,2,1921,quiet area,75 m² or more,Apartement,14/03/2017,,541464
+2,Lodijck,Sappemeer,9611TL,Groningen,65,2,5,1978,near water,75 m² or more,Apartement,16/03/2021,verkocht,589326
+3,Disselsweg,Enter,7468AL,Overijsse,178,2,3,1991,near school,150 m² or more,House,14/04/2020,,431529
+4,Jan Vriendshof,Asten,5721KZ,NoordBra,54,4,5,1952,quiet area,150 m² or more,Apartement,08/01/2018,,249752
+5,Elektroweg,Rotterdam,3051ND,ZuidHoll,185,1,4,1890,near forest,100 m² or more,House,25/12/2021,,260864
+6,W.J. Bijleveldstraat,Amsterdam,1063VB,NoordHol,126,1,5,2001,city centre,150 m² or more,Apartement,07/06/2018,,199464
+7,Willemspad,Buren,9164LV,Friesland,14,4,3,1956,rural,250 m² or more,House,16/10/2019,,503379
+8,Sallandstraat,Haalderen,6685BB,Gelderlan,110,3,4,1972,city centre,250 m² or more,House,25/12/2018,,559392
+9,Pieter Huyssensweg,Eindhoven,5624AM,NoordBra,61,3,3,1906,quiet area,100 m² or more,Apartement,20/01/2018,,572137
+10,Straterweg,Kerkrade,6461HV,Limburg,77,3,1,1954,near school,75 m² or more,Apartement,24/06/2020,,533023
+11,Ligtenbergstraat,Hoensbroek,6433BR,Limburg,27,5,3,1977,quiet area,50 m² or more,Apartement,02/11/2017,,386332
+12,Oranjegracht,Leiden,2312XE,ZuidHoll,38,1,2,1968,quiet area,75 m² or more,Apartement,09/08/2018,,314971
+13,Televisiebaan,IJsselstein,3402VE,Utrecht,175,3,4,1899,near sea,75 m² or more,House,18/02/2017,,493767
+14,Wormstraat,Heerlen,6413XL,Limburg,175,4,1,1931,quiet area,100 m² or more,House,25/04/2020,,333216
+15,Professor Crahaystraat,Maastricht,6224BM,Limburg,41,5,5,1958,city centre,100 m² or more,Apartement,17/07/2021,verkocht,233418
+16,Laantje van het Schaap Veronica,Wageningen,6708TB,Gelderlan,64,5,4,1923,city centre,50 m² or more,Apartement,10/11/2017,,272533
+17,Burgemeester Waldastraat,Nes,9163JB,Friesland,46,4,2,1905,city centre,100 m² or more,Apartement,21/10/2020,,536123
+18,Bijwater,Dordrecht,3317MG,ZuidHoll,97,2,1,1925,near water,75 m² or more,House,23/03/2019,,540926
+19,Wilgengriend,Almere,1356JM,Flevoland,64,4,1,1967,city centre,75 m² or more,Apartement,15/12/2019,,403671
+20,Pater Thijssenstraat,Veghel,5465SG,NoordBra,117,1,4,1938,rural,100 m² or more,House,17/02/2021,,167522
+21,Meenthorsterweg,Lunteren,6741GH,Gelderlan,80,2,3,1991,near water,150 m² or more,House,10/10/2020,,554594
+22,Oostkilhoek,Rilland,4411DZ,Zeeland,79,1,5,1944,rural,250 m² or more,House,04/05/2017,,263193
+23,Dokter Posthumuslaan,Eenrum,9967PM,Groningen,183,2,4,1968,rural,100 m² or more,Apartement,12/03/2020,,529053
+24,Voorbeetseweg,Sellingen,9551VK,Groningen,127,2,4,1938,near forest,250 m² or more,Apartement,14/09/2021,,574081
+25,T P Oosterhoffstraat,Oldehove,9883PJ,Groningen,115,3,1,1935,rural,75 m² or more,Apartement,17/03/2018,,224970
